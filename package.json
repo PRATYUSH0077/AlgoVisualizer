@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "react-scripts build && cp index.html build/"
+    "build": ""
   },
   "author": "Pratyush Sinha",
   "license": "ISC",
