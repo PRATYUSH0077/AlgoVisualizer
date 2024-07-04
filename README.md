@@ -1,6 +1,6 @@
 # Algorithm-Visualization
 
-### <a href = "https://github.com/PRATYUSH0077/AlgoVisualizer/"> Click here </a> to view website
+### <a href = "https://algovisualizer-2pbh.onrender.com/"> Click here </a> to view website
 
 ## Pathfinding Algorithms Implemented
 
