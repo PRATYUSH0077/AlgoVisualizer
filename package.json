@@ -8,5 +8,8 @@
     "build": "react-scripts build"
   },
   "author": "Pratyush Sinha",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
 }
